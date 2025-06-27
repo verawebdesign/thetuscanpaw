@@ -1,0 +1,81 @@
+HTTrack3.49-2 launched on Fri, 27 Jun 2025 11:32:31 at https://thetuscanpaw.com
+(httrack https://thetuscanpaw.com -O /Users/brunovera/Desktop/TheTuscanPaw )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:36:16	Error: 	"Forbidden" (403) at link https://thetuscanpaw.com/xmlrpc.php?rsd (from https://thetuscanpaw.com/)
+11:38:54	Warning: 	Found for https://thetuscanpaw.com/?add-to-cart=5130
+11:38:54	Warning: 	File has moved from https://thetuscanpaw.com/?add-to-cart=5130 to https://thetuscanpaw.com/carrello/
+11:38:54	Warning: 	Found for https://thetuscanpaw.com/?add-to-cart=71
+11:38:54	Warning: 	File has moved from https://thetuscanpaw.com/?add-to-cart=71 to https://thetuscanpaw.com/carrello/
+11:39:10	Error: 	"Not Found" (404) at link https://thetuscanpaw.com/wp-content/uploads/2021/12/payment-icons-footer.svg (from https://thetuscanpaw.com/)
+11:39:10	Warning: 	Moved Permanently for https://thetuscanpaw.com/?p=64
+11:39:10	Warning: 	File has moved from https://thetuscanpaw.com/?p=64 to https://thetuscanpaw.com/negozio/
+11:39:10	Warning: 	Found for https://thetuscanpaw.com/negozio/?add-to-cart=5130
+11:39:10	Warning: 	File has moved from https://thetuscanpaw.com/negozio/?add-to-cart=5130 to https://thetuscanpaw.com/carrello/
+11:39:10	Warning: 	Found for https://thetuscanpaw.com/negozio/?add-to-cart=71
+11:39:10	Warning: 	File has moved from https://thetuscanpaw.com/negozio/?add-to-cart=71 to https://thetuscanpaw.com/carrello/
+11:39:17	Warning: 	Found for https://thetuscanpaw.com/negozio/?add-to-cart=5698
+11:39:17	Warning: 	File has moved from https://thetuscanpaw.com/negozio/?add-to-cart=5698 to https://thetuscanpaw.com/carrello/
+11:40:25	Warning: 	Found for https://thetuscanpaw.com/negozio/?add-to-cart=5697
+11:40:25	Warning: 	File has moved from https://thetuscanpaw.com/negozio/?add-to-cart=5697 to https://thetuscanpaw.com/carrello/
+11:40:25	Warning: 	Moved Permanently for https://thetuscanpaw.com/?p=1037
+11:40:25	Warning: 	File has moved from https://thetuscanpaw.com/?p=1037 to https://thetuscanpaw.com/chi-siamo/
+11:40:25	Error: 	"Not Found" (404) at link https://thetuscanpaw.com/il-mio-accountt/ (from https://thetuscanpaw.com/chi-siamo/)
+11:40:25	Warning: 	Moved Permanently for https://thetuscanpaw.com/?p=2499
+11:40:25	Warning: 	File has moved from https://thetuscanpaw.com/?p=2499 to https://thetuscanpaw.com/cosa-offriamo/
+11:40:47	Warning: 	Moved Permanently for https://thetuscanpaw.com/?p=1361
+11:40:47	Warning: 	File has moved from https://thetuscanpaw.com/?p=1361 to https://thetuscanpaw.com/contatto/
+11:40:47	Warning: 	Moved Permanently for https://thetuscanpaw.com/?p=3
+11:40:47	Warning: 	File has moved from https://thetuscanpaw.com/?p=3 to https://thetuscanpaw.com/privacy-policy-2/
+11:40:47	Warning: 	Moved Permanently for https://thetuscanpaw.com/?p=6241
+11:40:47	Warning: 	File has moved from https://thetuscanpaw.com/?p=6241 to https://thetuscanpaw.com/carrello/
+11:40:47	Warning: 	Found for https://thetuscanpaw.com/carrello/?add-to-cart=5698
+11:40:47	Warning: 	File has moved from https://thetuscanpaw.com/carrello/?add-to-cart=5698 to https://thetuscanpaw.com/carrello/
+11:40:47	Warning: 	Found for https://thetuscanpaw.com/carrello/?add-to-cart=5697
+11:40:47	Warning: 	File has moved from https://thetuscanpaw.com/carrello/?add-to-cart=5697 to https://thetuscanpaw.com/carrello/
+11:40:47	Warning: 	Found for https://thetuscanpaw.com/carrello/?add-to-cart=5130
+11:40:47	Warning: 	File has moved from https://thetuscanpaw.com/carrello/?add-to-cart=5130 to https://thetuscanpaw.com/carrello/
+11:40:47	Warning: 	Found for https://thetuscanpaw.com/carrello/?add-to-cart=71
+11:40:47	Warning: 	File has moved from https://thetuscanpaw.com/carrello/?add-to-cart=71 to https://thetuscanpaw.com/carrello/
+11:40:48	Error: 	"Bad Request" (400) at link https://thetuscanpaw.com/wp-admin/admin-ajax.php?action=rest-nonce (from https://thetuscanpaw.com/carrello/)
+11:40:51	Warning: 	Moved Permanently for https://thetuscanpaw.com/?p=71
+11:40:51	Warning: 	File has moved from https://thetuscanpaw.com/?p=71 to https://thetuscanpaw.com/negozio/cibo-umido-150g/
+11:40:51	Warning: 	Moved Permanently for https://thetuscanpaw.com/?p=5130
+11:40:51	Warning: 	File has moved from https://thetuscanpaw.com/?p=5130 to https://thetuscanpaw.com/negozio/pate-di-manzo-con-verdure-x-60-unita/
+11:40:51	Warning: 	Found for https://thetuscanpaw.com/product-category/cibo/?add-to-cart=71
+11:40:51	Warning: 	File has moved from https://thetuscanpaw.com/product-category/cibo/?add-to-cart=71 to https://thetuscanpaw.com/carrello/
+11:40:51	Warning: 	Found for https://thetuscanpaw.com/product-category/cibo/?add-to-cart=5130
+11:40:51	Warning: 	File has moved from https://thetuscanpaw.com/product-category/cibo/?add-to-cart=5130 to https://thetuscanpaw.com/carrello/
+11:40:51	Warning: 	Found for https://thetuscanpaw.com/product-category/senza-categoria/?add-to-cart=71
+11:40:51	Warning: 	File has moved from https://thetuscanpaw.com/product-category/senza-categoria/?add-to-cart=71 to https://thetuscanpaw.com/carrello/
+11:40:51	Warning: 	Found for https://thetuscanpaw.com/product-category/senza-categoria/?add-to-cart=5130
+11:40:51	Warning: 	File has moved from https://thetuscanpaw.com/product-category/senza-categoria/?add-to-cart=5130 to https://thetuscanpaw.com/carrello/
+11:40:51	Warning: 	Moved Permanently for https://thetuscanpaw.com/?p=6251
+11:40:51	Warning: 	File has moved from https://thetuscanpaw.com/?p=6251 to https://thetuscanpaw.com/il-mio-account/
+11:40:52	Warning: 	Moved Permanently for https://thetuscanpaw.com/?p=5297
+11:40:52	Warning: 	File has moved from https://thetuscanpaw.com/?p=5297 to https://thetuscanpaw.com/politica-di-rimborso-e-reso/
+11:40:52	Warning: 	Moved Permanently for https://thetuscanpaw.com/?p=5698
+11:40:52	Warning: 	File has moved from https://thetuscanpaw.com/?p=5698 to https://thetuscanpaw.com/negozio/pate-di-manzo-con-verdure-x-60-unita-2/
+11:40:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://thetuscanpaw.com/product-category/abbonamenti/?add-to-cart=5697 (from https://thetuscanpaw.com/product-category/abbonamenti/)
+11:40:52	Warning: 	Found for https://thetuscanpaw.com/product-category/abbonamenti/?add-to-cart=5698
+11:40:52	Warning: 	File has moved from https://thetuscanpaw.com/product-category/abbonamenti/?add-to-cart=5698 to https://thetuscanpaw.com/carrello/
+11:40:52	Warning: 	Retry after error -5 (error:00000005:lib(0)::reason(5)) at link https://thetuscanpaw.com/wp-json/wp/v2/product/5697 (from https://thetuscanpaw.com/negozio/pate-di-manzo-con-verdure-x-10-unita/)
+11:40:52	Warning: 	Moved Permanently for https://thetuscanpaw.com/?p=5697
+11:40:52	Warning: 	File has moved from https://thetuscanpaw.com/?p=5697 to https://thetuscanpaw.com/negozio/pate-di-manzo-con-verdure-x-10-unita/
+11:40:52	Warning: 	Moved Permanently for https://thetuscanpaw.com/?p=465
+11:40:52	Warning: 	File has moved from https://thetuscanpaw.com/?p=465 to https://thetuscanpaw.com/intelligenza-del-bassotto/
+11:41:04	Warning: 	Moved Permanently for https://thetuscanpaw.com/?p=512
+11:41:04	Warning: 	File has moved from https://thetuscanpaw.com/?p=512 to https://thetuscanpaw.com/la-storia-del-bassotto/
+11:41:04	Warning: 	Moved Permanently for https://thetuscanpaw.com/?p=583
+11:41:04	Warning: 	File has moved from https://thetuscanpaw.com/?p=583 to https://thetuscanpaw.com/la-lealta-del-bassotto/
+11:41:04	Warning: 	Moved Permanently for https://thetuscanpaw.com/?p=462
+11:41:04	Warning: 	File has moved from https://thetuscanpaw.com/?p=462 to https://thetuscanpaw.com/dignissim-cras-tincidunt-lobortis/
+11:41:04	Warning: 	Found for https://thetuscanpaw.com/product-category/abbonamenti/?add-to-cart=5697
+11:41:04	Warning: 	File has moved from https://thetuscanpaw.com/product-category/abbonamenti/?add-to-cart=5697 to https://thetuscanpaw.com/carrello/
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 39 seconds : 473 links scanned, 434 files written (17381610 bytes overall) [10220154 bytes received at 19692 bytes/sec], 9583241 bytes transferred using HTTP compression in 270 files, ratio 21%, 21.5 requests per connection
+(4 errors, 66 warnings, 0 messages)

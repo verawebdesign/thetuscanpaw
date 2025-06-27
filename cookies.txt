@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+thetuscanpaw.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_cc90eda741d5ea6628e8d308c021af6c	t_6ee7be48317fe566c86feb59004f17%7C%7C1751189615%7C%7C1751186015%7C%7Cd2cd336230696edea5ec1ef7d5595c68
+thetuscanpaw.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+thetuscanpaw.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	bacd9e1c0f20fbdacdd4ccd0cdefbfe8
+thetuscanpaw.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+
